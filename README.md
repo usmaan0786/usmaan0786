@@ -25,7 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmaan0786&show_icons=true&locale=en&layout=compact" alt="usmaan0786" /></p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=usmaan0786&label=Profile%20views&color=0e75b6&style=flat" alt="usmaan0786" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmaan0786" alt="usmaan0786" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmaan0786" alt="usmaan0786" /></a> </p>
