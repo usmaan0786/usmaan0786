@@ -37,14 +37,16 @@
 <p align = "center"> 
   <img src="https://img.shields.io/badge/-spaCy-09A3D5?logo=spaCy&logoColor=fff" alt="spaCy"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=fff" alt="NumPy"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-spaCy-09A3D5?logo=spaCy&logoColor=fff" alt="spaCy"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=fff" alt="pandas"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-matplotlib-e34f26?Color=fff" alt="matplotlib"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-seaborn-e34f26?Color=fff" alt="seaborn"width="fixed-content"height="25">
 </p>
 
 <h1 align = "center">Coding Environments</h1>
 <p align = "center"> 
   <img src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=fff" alt="Google Colab"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=fff" alt="Jupyterb"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anacondab&logoColor=fff" alt="Anaconda"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=fff" alt="Anaconda"width="fixed-content"height="25">
 </p>
 
 <h3 align="left">Connect with me:</h3>
