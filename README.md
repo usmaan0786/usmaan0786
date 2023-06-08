@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=fff" alt="C++" width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff" alt="C" width="fixed-content"height="28">
-  <img src="https://img.shields.io/badge/-C#-99CC00?logo=C#&logoColor=fff" alt="C#" width="fixed-content"height="28">
+  <img src="https://img.shields.io/badge/-#-99CC00?logo=#&logoColor=fff" alt="#" width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="28">
