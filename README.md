@@ -109,7 +109,7 @@
     <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25"/>
   </a>
   
-   <a href = "mailto : usmanmanzoor1000@gmail.com">
+   <a href = "usmanmanzoor1000@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=fff" alt="gmail"width="fixed-content"height="25"/>
   </a>
   
