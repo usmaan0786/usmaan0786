@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I used to do programming, problem solving and constantly learning**
 
 <!-- https://simpleicons.org/?q=Assemb -->
-
+ad
 <h2>Languages</h2>
 <p> 
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="25">
