@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=fff" alt="pandas"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-matplotlib-e34f26?Color=fff" alt="matplotlib"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-seaborn-e34f26?Color=fff" alt="seaborn"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-scikit-learn-F7931E?logo=scikit-learn&logoColor=fff" alt="scikit-learn"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-scikitlearn-F7931E?logo=scikit-learn&logoColor=fff" alt="scikit-learn"width="fixed-content"height="25">
 </p>
 
 <h2 align = "center">Environment</h2>
