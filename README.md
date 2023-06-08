@@ -1,3 +1,7 @@
+<div align="center">  
+<img src="https://komarev.com/ghpvc/?username=usmaan0786&style=flat-square&color=blue" alt=""/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Usman Manzoor</h1>
 <h3 align="center">Computer Science Student from FAST, nuces</h3>
 
