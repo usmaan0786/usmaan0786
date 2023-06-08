@@ -105,7 +105,19 @@
 
 <h1 align = "center">Connect With Me</h1>
 <p align = "center"> 
-  <a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
+   <a href = "https://www.linkedin.com/in/usman-manzoor-40a84a198/">
+    <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25"/>
+  </a>
+  
+   <a href = "mailto : usmanmanzoor1000@gmail.com">
+    <img src="https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=fff" alt="gmail"width="fixed-content"height="25"/>
+  </a>
+  
+   <a href = "https://www.linkedin.com/in/usman-manzoor-40a84a198/">
+    <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25"/>
+  </a>
+  
+   <a href = "https://www.linkedin.com/in/usman-manzoor-40a84a198/">
     <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25"/>
   </a>
 </p>
