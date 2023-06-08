@@ -17,6 +17,11 @@
 
 - ⚡ Fun fact **I used to do programming, problem solving, have a good sense of humour😅 and constantly learning**
 
+<p>
+  https://img.shields.io/badge/-CSS-#1572B6?logo=css3&logoColor=fff
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/usman manzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman manzoor" height="30" width="40" /></a>
