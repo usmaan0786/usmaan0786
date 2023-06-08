@@ -105,8 +105,9 @@
 
 <h1 align = "center">Connect With Me</h1>
 <p align = "center"> 
-  <img  href="https://www.linkedin.com/in/usman-manzoor-40a84a198/" src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25">
-  <img  href="https://linkedin.com/in/usman manzoor" src="https://img.shields.io/badge/--0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25">
+  <a href = "https://www.linkedin.com/in/dawood-sarfraz-0466541b6">
+    <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25"/>
+  </a>
 </p>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical)](https://github.com/usmaan0786)
