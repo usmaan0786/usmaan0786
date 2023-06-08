@@ -110,7 +110,7 @@
   </a>
   
    <a href = "mailto : usmanmanzoor1000@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=fff" alt="gmail"width="fixed-content"height="25"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=fff" alt="Gmail"width="fixed-content"height="25"/>
   </a>
   
    <a href = "https://www.linkedin.com/in/usman-manzoor-40a84a198/">
