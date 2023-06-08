@@ -17,6 +17,7 @@
 
 - ⚡ Fun fact **I used to do programming, problem solving, have a good sense of humour😅 and constantly learning**
 
+<!-- https://simpleicons.org/?q=Assemb -->
 
 <h1 align = "center">Languages</h1>
 <p align = "center"> 
@@ -29,9 +30,7 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" alt="php" width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-Java-e34f26?Color=fff" alt="Java"width="fixed-content"height="28">
-  <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff" alt="rust" width="fixed-content"height="28">
-  <img src="https://img.shields.io/badge/-AssemblyLanguage-007AAC?logo=assembly language&logoColor=fff" alt="assembly language" width="fixed-content"height="28">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" alt="php" width="fixed-content"height="28">
+  <img src="https://img.shields.io/badge/-MySql-4479A1?logo=MySql&logoColor=fff" alt="MySql" width="fixed-content"height="28">
   
 </p>
 
