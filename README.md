@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=fff" alt="TensorFlow"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=fff" alt="Keras"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-opencv-5C3EE8?logo=opencv&logoColor=fff" alt="opencv"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-Beautiful Soup-D00000?logo=Keras&logoColor=fff" alt="Beautiful Soup"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-Beautiful Soup-D00000?logo=Beautiful Soup&logoColor=fff" alt="Beautiful Soup"width="fixed-content"height="25">
 </p>
 
 <h2>Environment</h2>
