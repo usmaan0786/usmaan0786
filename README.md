@@ -65,6 +65,7 @@
 <p align = "center"> 
   <img src="https://img.shields.io/badge/-microsoftsqlserver-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="microsoftsqlserver"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-phpmyadmin-6C78AF?logo=phpmyadmin&logoColor=fff" alt="phpmyadmin"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-mariadb-003545?logo=mariadb&logoColor=fff" alt="mariadb"width="fixed-content"height="25">
 </p>
 
 <h2 align = "center">Tools</h2>
@@ -72,6 +73,12 @@
   <img src="https://img.shields.io/badge/-Sublime Text-FF9800?logo=Sublime Text&logoColor=fff" alt="Sublime Text"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-visualstudiocode-007ACC?logo=visualstudiocode&logoColor=fff" alt="visualstudiocode"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-visualstudio-5C2D91?logo=visualstudio&logoColor=fff" alt="visualstudio"width="fixed-content"height="25">
+</p>
+
+<h2 align = "center">Operating System</h2>
+<p align = "center"> 
+  <img src="https://img.shields.io/badge/-windows-0078D6?logo=windows&logoColor=fff" alt="windows"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-linux-FCC624?logo=linux&logoColor=fff" alt="linux"width="fixed-content"height="25">
 </p>
 
 <h3 align="left">Connect with me:</h3>
