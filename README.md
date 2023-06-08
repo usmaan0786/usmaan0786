@@ -18,7 +18,8 @@
 <a href="https://linkedin.com/in/usman manzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman manzoor" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical" alt="usmaan0786" /></p>
+<!-- /<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical" alt="usmaan0786" /></p> -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=15&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=11&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786)
 
