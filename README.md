@@ -119,6 +119,7 @@
   
 <h1>Github Stats</h1>
 <p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical)](https://github.com/usmaan0786" width="fixed-content"height="250">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=11&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786" width="fixed-content"height="250">
+  <img src="https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical)](https://github.com/usmaan0786" width="fixed-content"height="230">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=11&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786" width="fixed-content"height="230">
 </p>
+33
