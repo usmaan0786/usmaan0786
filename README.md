@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I used to do programming, problem solving, have a good sense of humour😅 and constantly learning**
 
 <p>
-  <img src = "https://img.shields.io/badge/-CSS-#1572B6?logo=css3&logoColor=fff">
+  <img src = "https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
  
 </p>
 
