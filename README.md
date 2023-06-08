@@ -61,6 +61,11 @@
   <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=fff" alt="Anaconda"width="fixed-content"height="25">
 </p>
 
+<h2 align = "center">Database</h2>
+<p align = "center"> 
+  <img src="https://img.shields.io/badge/-microsoftsqlserver-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="microsoftsqlserver"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-phpmyadmin-6C78AF?logo=phpmyadmin&logoColor=fff" alt="phpmyadmin"width="fixed-content"height="25">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/usman manzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman manzoor" height="30" width="40" /></a>
