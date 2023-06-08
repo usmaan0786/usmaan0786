@@ -68,6 +68,11 @@
   <img src="https://img.shields.io/badge/-mariadb-003545?logo=mariadb&logoColor=fff" alt="mariadb"width="fixed-content"height="25">
 </p>
 
+<h2 align = "center">Graphic Design Tool</h2>
+<p align = "center">
+  <img src="https://img.shields.io/badge/-canva-00C4CC?logo=canva&logoColor=fff" alt="canva"width="fixed-content"height="25">
+</p>
+
 <h2 align = "center">Tools</h2>
 <p align = "center"> 
   <img src="https://img.shields.io/badge/-Sublime Text-FF9800?logo=Sublime Text&logoColor=fff" alt="Sublime Text"width="fixed-content"height="25">
@@ -75,7 +80,12 @@
   <img src="https://img.shields.io/badge/-visualstudio-5C2D91?logo=visualstudio&logoColor=fff" alt="visualstudio"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-diagramsdotnet-F08705?logo=diagramsdotnet&logoColor=fff" alt="diagramsdotnet"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-LucidChart-e34f26?Color=fff" alt="LucidChart"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-Visual Paradigm-e34f26?Color=fff" alt="Visual Paradigm"width="fixed-content"height="25">
+</p>
+
+<h2 align = "center">Version Control</h2>
+<p align = "center"> 
+  <img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=fff" alt="github"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff" alt="git"width="fixed-content"height="25">
 </p>
 
 <h2 align = "center">Operating System</h2>
