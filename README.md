@@ -103,10 +103,10 @@
   <img src="https://img.shields.io/badge/-microsoftazure-0078D4?logo=microsoftazure&logoColor=fff" alt="microsoftazure"width="fixed-content"height="25">
 </p>
 
-<h2 align = "center">Others</h2>
+<h1 align = "center">Connect With Me</h1>
 <p align = "center"> 
-  <img src="https://img.shields.io/badge/--0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-microsoftazure-0078D4?logo=microsoftazure&logoColor=fff" alt="microsoftazure"width="fixed-content"height="25">
+  <img  href="https://linkedin.com/in/usman manzoor" src="https://img.shields.io/badge/-0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25">
+  <img  href="https://linkedin.com/in/usman manzoor" src="https://img.shields.io/badge/--0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25">
 </p>
 
 linkedin
