@@ -22,6 +22,7 @@
 </p>
 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" width="100" height="30">
 
 
 <h3 align="left">Connect with me:</h3>
