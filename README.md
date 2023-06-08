@@ -66,7 +66,7 @@
 <p> 
   <img src="https://img.shields.io/badge/-microsoftsqlserver-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="microsoftsqlserver"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-phpmyadmin-6C78AF?logo=phpmyadmin&logoColor=fff" alt="phpmyadmin"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-mariadb-003545?logo=mariadb&logoColor=fff" alt="mariadb"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&logoColor=fff" alt="mongodb"width="fixed-content"height="25">
 </p>
 
 <h2>Graphic Design Tool</h2>
