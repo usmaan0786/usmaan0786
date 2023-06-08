@@ -120,9 +120,9 @@
   
 <h1>Github Stats</h1>
 <p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical)](https://github.com/usmaan0786" alt="powerbi"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-microsoftazure-0078D4?logo=microsoftazure&logoColor=fff" alt="microsoftazure"width="fixed-content"height="25">
+  <img src="https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical)](https://github.com/usmaan0786" width="fixed-content"height="500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=11&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786)](https://github.com/usmaan0786" width="fixed-content"height="500">
+  
 </p>
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical)](https://github.com/usmaan0786)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=11&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786)
