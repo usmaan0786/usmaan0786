@@ -21,7 +21,7 @@
   <img src = "https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
 </p>
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
 
 
 <h3 align="left">Connect with me:</h3>
