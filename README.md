@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical" alt="usmaan0786" /></p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=10&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=11&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&show_icons=true&theme=radical" alt="usmaan0786" /></p>
 
