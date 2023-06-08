@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" alt="php" width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Java-e34f26?Color=fff" alt="Java"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-MySql-4479A1?logo=MySql&logoColor=fff" alt="MySql" width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-Assembly Language-e34f26?Color=fff" alt="Assembly Language"width="fixed-content"height="25">
 </p>
 
 <h1 align = "center">Libraries</h1>
@@ -40,6 +41,7 @@
   <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=fff" alt="pandas"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-matplotlib-e34f26?Color=fff" alt="matplotlib"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-seaborn-e34f26?Color=fff" alt="seaborn"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-scikit-learn-F7931E?logo=scikit-learn&logoColor=fff" alt="scikit-learn"width="fixed-content"height="25">
 </p>
 
 <h1 align = "center">Coding Environments</h1>
