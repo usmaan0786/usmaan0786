@@ -19,7 +19,7 @@
 
 <!-- https://simpleicons.org/?q=Assemb -->
 
-<h1 align = "center">Languages</h1>
+<h2 align = "center">Languages</h2>
 <p align = "center"> 
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=fff" alt="C++" width="fixed-content"height="25">
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-Assembly Language-e34f26?Color=fff" alt="Assembly Language"width="fixed-content"height="25">
 </p>
 
-<h1 align = "center">Libraries</h1>
+<h3 align = "center">Libraries</h3>
 <p align = "center"> 
   <img src="https://img.shields.io/badge/-spaCy-09A3D5?logo=spaCy&logoColor=fff" alt="spaCy"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=fff" alt="NumPy"width="fixed-content"height="25">
@@ -44,9 +44,16 @@
   <img src="https://img.shields.io/badge/-scikit-learn-F7931E?logo=scikit-learn&logoColor=fff" alt="scikit-learn"width="fixed-content"height="25">
 </p>
 
-<h1 align = "center">Coding Environments</h1>
+<h1 align = "center">Environment</h1>
 <p align = "center"> 
   <img src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=fff" alt="Google Colab"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=fff" alt="Jupyterb"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=fff" alt="Anaconda"width="fixed-content"height="25">
+</p>
+
+<h1 align = "center">Framework</h1>
+<p align = "center"> 
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Google Bootstrap&logoColor=fff" alt="Bootstrap"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=fff" alt="Jupyterb"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=fff" alt="Anaconda"width="fixed-content"height="25">
 </p>
