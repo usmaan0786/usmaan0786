@@ -110,6 +110,10 @@
     <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25"/>
   </a>
   
+  <a href = "mailto: usmanmanzoor1000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"width="fixed-content"height="25"/)
+ </a>
+    
    <a href = "mailto : usmanmanzoor1000@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=fff" alt="Gmail"width="fixed-content"height="25"/>
   </a>
