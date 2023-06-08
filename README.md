@@ -17,8 +17,8 @@
 
 <!-- https://simpleicons.org/?q=Assemb -->
 
-<h2 align = "center">Languages</h2>
-<p align = "center"> 
+<h2>Languages</h2>
+<p> 
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=fff" alt="C++" width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff" alt="C" width="fixed-content"height="25">
@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/-Assembly Language-e34f26?Color=fff" alt="Assembly Language"width="fixed-content"height="25">
 </p>
 
-<h2 align = "center">Libraries</h2>
-<p align = "center"> 
+<h2>Libraries</h2>
+<p> 
   <img src="https://img.shields.io/badge/-spaCy-09A3D5?logo=spaCy&logoColor=fff" alt="spaCy"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=fff" alt="NumPy"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=fff" alt="pandas"width="fixed-content"height="25">
@@ -46,16 +46,16 @@
   <img src="https://img.shields.io/badge/-Beautiful Soup-D00000?logo=Keras&logoColor=fff" alt="Beautiful Soup"width="fixed-content"height="25">
 </p>
 
-<h2 align = "center">Environment</h2>
-<p align = "center"> 
+<h2>Environment</h2>
+<p> 
   <img src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=fff" alt="Google Colab"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=fff" alt="Jupyter"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=fff" alt="Anaconda"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Netbeans-e34f26?Color=fff" alt="Netbeans"width="fixed-content"height="25">
 </p>
 
-<h2 align = "center">Framework</h2>
-<p align = "center">
+<h2>Framework</h2>
+<p>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff" alt="React"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-laravel-FF2D20?logo=laravel&logoColor=fff" alt="laravel"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=fff" alt="Bootstrap"width="fixed-content"height="25">
@@ -63,20 +63,20 @@
    <img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?logoEclipse IDE&logoColor=fff" alt="Eclipse IDE"width="fixed-content"height="25">
 </p>
 
-<h2 align = "center">Database</h2>
-<p align = "center"> 
+<h2>Database</h2>
+<p> 
   <img src="https://img.shields.io/badge/-microsoftsqlserver-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="microsoftsqlserver"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-phpmyadmin-6C78AF?logo=phpmyadmin&logoColor=fff" alt="phpmyadmin"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-mariadb-003545?logo=mariadb&logoColor=fff" alt="mariadb"width="fixed-content"height="25">
 </p>
 
-<h2 align = "center">Graphic Design Tool</h2>
-<p align = "center">
+<h2>Graphic Design Tool</h2>
+<p>
   <img src="https://img.shields.io/badge/-canva-00C4CC?logo=canva&logoColor=fff" alt="canva"width="fixed-content"height="25">
 </p>
 
-<h2 align = "center">Tools</h2>
-<p align = "center"> 
+<h2>Tools</h2>
+<p> 
   <img src="https://img.shields.io/badge/-Sublime Text-FF9800?logo=Sublime Text&logoColor=fff" alt="Sublime Text"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-visualstudiocode-007ACC?logo=visualstudiocode&logoColor=fff" alt="visualstudiocode"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-visualstudio-5C2D91?logo=visualstudio&logoColor=fff" alt="visualstudio"width="fixed-content"height="25">
@@ -84,26 +84,26 @@
   <img src="https://img.shields.io/badge/-LucidChart-e34f26?Color=fff" alt="LucidChart"width="fixed-content"height="25">
 </p>
 
-<h2 align = "center">Version Control</h2>
-<p align = "center"> 
+<h2>Version Control</h2>
+<p> 
   <img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=fff" alt="github"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff" alt="git"width="fixed-content"height="25">
 </p>
 
-<h2 align = "center">Operating System</h2>
-<p align = "center"> 
+<h2>Operating System</h2>
+<p> 
   <img src="https://img.shields.io/badge/-windows-0078D6?logo=windows&logoColor=fff" alt="windows"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-linux-FCC624?logo=linux&logoColor=fff" alt="linux"width="fixed-content"height="25">
 </p>
 
-<h2 align = "center">Others</h2>
-<p align = "center"> 
+<h2>Others</h2>
+<p> 
   <img src="https://img.shields.io/badge/-powerbi-F2C811?logo=powerbi&logoColor=fff" alt="powerbi"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-microsoftazure-0078D4?logo=microsoftazure&logoColor=fff" alt="microsoftazure"width="fixed-content"height="25">
 </p>
 
-<h1 align = "center">Connect With Me</h1>
-<p align = "center"> 
+<h1>Connect With Me</h1>
+<p> 
    <a href = "https://www.linkedin.com/in/usman-manzoor-40a84a198/">
     <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25"/>
   </a>
@@ -122,7 +122,4 @@
 <p> 
   <img src="https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical)](https://github.com/usmaan0786" width="fixed-content"height="250">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=11&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786" width="fixed-content"height="250">
-  
 </p>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=11&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786)
