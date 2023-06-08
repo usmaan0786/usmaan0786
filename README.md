@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" alt="php" width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-Java-e34f26?Color=fff" alt="Java"width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff" alt="rust" width="fixed-content"height="28">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" alt="php" width="fixed-content"height="28">
+  <img src="https://img.shields.io/badge/-Assembly Language-007AAC?logo=assembly language&logoColor=fff" alt="assembly language" width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" alt="php" width="fixed-content"height="28">
   
 </p>
