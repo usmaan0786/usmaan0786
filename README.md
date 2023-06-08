@@ -17,12 +17,8 @@
 
 - ⚡ Fun fact **I used to do programming, problem solving, have a good sense of humour😅 and constantly learning**
 
-<p>
-  <img src = "https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff" size = "100px">
-</p>
-
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
-<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" width="100" height="30">
+<h1 align="center">Languages</h1>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS" width="100" height="30">
 
 
 <h3 align="left">Connect with me:</h3>
