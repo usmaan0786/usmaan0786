@@ -54,11 +54,11 @@
 </p>
 
 <h2 align = "center">Framework</h2>
-<p align = "center"> 
+<p align = "center">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff" alt="React"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=fff" alt="Bootstrap"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=fff" alt=".NET"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=fff" alt="Anaconda"width="fixed-content"height="25">
+   <img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?logoEclipse IDE&logoColor=fff" alt="Eclipse IDE"width="fixed-content"height="25">
 </p>
 
 <h2 align = "center">Database</h2>
