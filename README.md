@@ -17,8 +17,9 @@
 
 - ⚡ Fun fact **I used to do programming, problem solving, have a good sense of humour😅 and constantly learning**
 
+
+<h1 align = "center">Languages</h1>
 <p align = "center"> 
-<h1>Languages</h1>
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS" width="100" height="30">
 </p>
 
