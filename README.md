@@ -13,9 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/usmaan0786?tab=repositories](https://github.com/usmaan0786?tab=repositories)
 
-- 📫 How to reach me **usmanmanzoor1000@gmail.com**
-
-- ⚡ Fun fact **I used to do programming, problem solving, have a good sense of humour😅 and constantly learning**
+- ⚡ Fun fact **I used to do programming, problem solving and constantly learning**
 
 <!-- https://simpleicons.org/?q=Assemb -->
 
@@ -119,6 +117,12 @@
   </a>
 </p>
 
+  
+<h1>Github Stats</h1>
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical)](https://github.com/usmaan0786" alt="powerbi"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-microsoftazure-0078D4?logo=microsoftazure&logoColor=fff" alt="microsoftazure"width="fixed-content"height="25">
+</p>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical)](https://github.com/usmaan0786)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=11&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786)
