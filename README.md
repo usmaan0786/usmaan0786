@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **usmanmanzoor1000@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/usmaan0786/Resume/blob/main/Resume.pdf](https://github.com/usmaan0786/Resume/blob/main/Resume.pdf)
-
 - ⚡ Fun fact **I used to do programming, problem solving, have a good sense of humour😅 and constantly learning**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,6 +18,7 @@
 <a href="https://linkedin.com/in/usman manzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman manzoor" height="30" width="40" /></a>
 </p>
 
+!(Top Languages)[https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical]
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usmaan0786&show_icons=true&locale=en&layout=compact" alt="usmaan0786" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmaan0786" alt="usmaan0786" /></a> </p>
