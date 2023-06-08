@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/-scikitlearn-F7931E?logo=scikit-learn&logoColor=fff" alt="scikit-learn"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=fff" alt="TensorFlow"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=fff" alt="Keras"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-opencv-5C3EE8?logo=opencv&logoColor=fff" alt="opencv"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-Beautiful Soup-D00000?logo=Keras&logoColor=fff" alt="Beautiful Soup"width="fixed-content"height="25">
 </p>
 
 <h2 align = "center">Environment</h2>
@@ -51,6 +53,7 @@
   <img src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=fff" alt="Google Colab"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=fff" alt="Jupyter"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=fff" alt="Anaconda"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-Netbeans-e34f26?Color=fff" alt="Netbeans"width="fixed-content"height="25">
 </p>
 
 <h2 align = "center">Framework</h2>
@@ -94,6 +97,19 @@
   <img src="https://img.shields.io/badge/-linux-FCC624?logo=linux&logoColor=fff" alt="linux"width="fixed-content"height="25">
 </p>
 
+<h2 align = "center">Others</h2>
+<p align = "center"> 
+  <img src="https://img.shields.io/badge/-powerbi-F2C811?logo=powerbi&logoColor=fff" alt="powerbi"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-microsoftazure-0078D4?logo=microsoftazure&logoColor=fff" alt="microsoftazure"width="fixed-content"height="25">
+</p>
+
+<h2 align = "center">Others</h2>
+<p align = "center"> 
+  <img src="https://img.shields.io/badge/--0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-microsoftazure-0078D4?logo=microsoftazure&logoColor=fff" alt="microsoftazure"width="fixed-content"height="25">
+</p>
+
+linkedin
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/usman manzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman manzoor" height="30" width="40" /></a>
