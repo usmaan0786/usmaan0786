@@ -20,7 +20,8 @@
 
 <h1 align = "center">Languages</h1>
 <p align = "center"> 
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS" width="100" height="30">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS" width="90"height="28">
+  
 </p>
 
 <h3 align="left">Connect with me:</h3>
