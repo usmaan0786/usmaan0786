@@ -18,13 +18,9 @@
 <a href="https://linkedin.com/in/usman manzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman manzoor" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="" alt="usmaan0786" /></p>
-
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=usmaan0786&count_private=true&show_icons=true&theme=radical)](https://github.com/usmaan0786)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&langs_count=11&layout=compact&hide=html,css&theme=radical)](https://github.com/usmaan0786)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmaan0786&show_icons=true&theme=radical" alt="usmaan0786" /></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmaan0786" alt="usmaan0786" /></a> </p>
