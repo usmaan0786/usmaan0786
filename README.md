@@ -35,16 +35,12 @@
 
 <h1 align = "center">Libraries</h1>
 <p align = "center"> 
+  <img src="https://img.shields.io/badge/-Google Colab-F9AB00?logo=Google Colab&logoColor=fff" alt="Google Colab"width="fixed-content"height="25">
+</p>
+
+<h1 align = "center">Coding Environments</h1>
+<p align = "center"> 
   <img src="https://img.shields.io/badge/-spaCy-09A3D5?logo=spaCy&logoColor=fff" alt="spaCy"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=fff" alt="C++" width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff" alt="C" width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-sharp-99CC00?logo=sharp&logoColor=fff" alt="sharp" width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff" alt="JavaScript"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff" alt="html"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" alt="php" width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-Java-e34f26?Color=fff" alt="Java"width="fixed-content"height="25">
-  <img src="https://img.shields.io/badge/-MySql-4479A1?logo=MySql&logoColor=fff" alt="MySql" width="fixed-content"height="25">
 </p>
 
 <h3 align="left">Connect with me:</h3>
