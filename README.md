@@ -21,7 +21,7 @@
 
 <h1 align = "center">Languages</h1>
 <p align = "center"> 
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="28">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="25">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=fff" alt="C++" width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff" alt="C" width="fixed-content"height="28">
   <img src="https://img.shields.io/badge/-sharp-99CC00?logo=sharp&logoColor=fff" alt="sharp" width="fixed-content"height="28">
