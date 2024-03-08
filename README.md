@@ -3,19 +3,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Usman Manzoor</h1>
-<h3 align="center">Computer Science Student from FAST, nuces</h3>
+<h3 align="center">Computer Science graduate from FAST, nuces</h3>
 
-<p align = "center"> <img src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt = "gif" width = "300px"></p>
 
-- 🔭 I’m currently working on [Text Conditioned Fashion Image Editing](https://github.com/usmaan0786/Text-Conditioned-Fashion-Image-Editing)
-
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/usmaan0786?tab=repositories](https://github.com/usmaan0786?tab=repositories)
-
-- ⚡ Fun fact **I used to do programming, problem solving and constantly learning**
+- 🔭 visit my portfolio on usman77.netlify.app
 
 <!-- https://simpleicons.org/?q=Assemb -->
+
 <h2>Languages</h2>
 <p> 
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="25">
