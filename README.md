@@ -10,7 +10,7 @@
 
 <!-- https://simpleicons.org/?q=Assemb -->
 
-<h2>Frontend development</h2>
+<h2>MERN Stack Development</h2>
 <div>
    <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" width="fixed-content" height="25"/>
    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" width="fixed-content" height="25"/>
